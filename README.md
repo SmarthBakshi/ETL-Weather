@@ -1,6 +1,6 @@
 # 🌤️ ETL Weather Pipeline with Apache Airflow & Docker
 
-This project demonstrates a production-ready ETL pipeline that fetches, processes, and stores weather data using **Apache Airflow**, **Docker**, and **Python**.
+This ongoing project demonstrates a production-ready ETL pipeline that fetches, processes, and stores weather data using **Apache Airflow**, **Docker**, and **Python**.
 
 > Built to showcase data engineering practices like DAG orchestration, task modularity, environment-based config management, and pipeline testing.
 
